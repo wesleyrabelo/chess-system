@@ -30,7 +30,4 @@ public class Position {
 	public String toString() {
 		return this.row + ", " + this.column;
 	}
-	
-	
-	
 }
